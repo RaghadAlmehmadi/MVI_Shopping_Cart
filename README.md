@@ -64,5 +64,13 @@ To run this app:
 
 3.Build and run on your preferred Android device or emulator.
 
+### Unit Testing
+Unit tests are implemented to ensure the correctness of the business logic. These tests help validate how the app handles adding items to the cart and retrieving the current cart state.
+
 ### **3. Screenshot**
 <img width="368" alt="MVI" src="https://github.com/user-attachments/assets/d6d1ffdd-4390-475c-9aa5-ae6800c71b42" />
+
+### **4. Screenshot Unit Testing**
+<img width="1430" alt="repositoryimpl" src="https://github.com/user-attachments/assets/1fffa100-430d-449a-bfb6-ec22074678ef" />
+
+<img width="1430" alt="vm" src="https://github.com/user-attachments/assets/22eded09-6931-4cbc-9ead-6a37fdde45a7" />

@@ -9,7 +9,6 @@ The MVI Shopping Cart is an Android app that implements the **Model-View-Intent 
 2. **View**: Displays the UI based on the state provided by the ViewModel. It emits user Intents to the ViewModel.
 3. **Intent**: User actions or events that the ViewModel processes (e.g., add item, remove item).
 4. **State**: Represents the UI state (loading, success, error).
-5. **Reducer**: Updates the state based on the received intent (typically handled in the `ViewModel`).
 
 ## Implemented Use Cases
 Currently, only two use cases are implemented in the domain layer:
